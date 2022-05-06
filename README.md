@@ -100,7 +100,7 @@ Issue ID | Issue Type | Title
 `#6`     | Task       | Squash with Traceability to Task and PR in Commit Message Integration Strategy, without Any Commits in the Branch Referencing the Task
 
 
-## Step 5 - Understand the User Story and Tasks
+## Step 5 - Understand the User Story and Tasks     
 Read and understand the user story `#1`, and the tasks `#2`, `#3`, `#4`, `#5` and `#6` which are all linked to user story `#1`.
 
 
